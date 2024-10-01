@@ -1,0 +1,17 @@
+==> 2024-10-01 14:33:52 <==
+# cmd: C:\Users\gurah\anaconda3\Scripts\conda-script.py create -p venv python==3.9 -y
+# conda version: 24.5.0
++conda-forge/noarch::pip-24.2-pyh8b19718_1
++conda-forge/noarch::setuptools-75.1.0-pyhd8ed1ab_0
++conda-forge/noarch::tzdata-2024a-h8827d51_1
++conda-forge/noarch::wheel-0.44.0-pyhd8ed1ab_0
++conda-forge/win-64::ca-certificates-2024.8.30-h56e8100_0
++conda-forge/win-64::libsqlite-3.46.1-h2466b09_0
++conda-forge/win-64::openssl-1.1.1w-hcfcfb64_0
++conda-forge/win-64::python-3.9.0-h7840368_5_cpython
++conda-forge/win-64::sqlite-3.46.1-h2466b09_0
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_0
++conda-forge/win-64::vc-14.3-h8a93ad2_21
++conda-forge/win-64::vc14_runtime-14.40.33810-ha82c5b3_21
++conda-forge/win-64::vs2015_runtime-14.40.33810-h3bf8584_21
+# update specs: ['python==3.9']
